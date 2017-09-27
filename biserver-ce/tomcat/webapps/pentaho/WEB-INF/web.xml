@@ -17,7 +17,7 @@
 	<!--  This context parameter is being deprecated. We don't use this any more. We have added a new context parameter called fully-qualified-server-url -->
 	<context-param>
 		<param-name>base-url</param-name>
-		<param-value></param-value>
+		<param-value>11</param-value>
 	</context-param>
 
 	<!--  FullyQualifiedServerUrl is used only in the case of offline content generation and whenever something need to talk back to the server -->
